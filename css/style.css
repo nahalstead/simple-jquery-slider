@@ -3,6 +3,7 @@ body {
   padding: 20px;
   font-family: "Helvetica", sans-serif;
   font-size: 12px;
+  overflow: hidden;
 }
 .slider-nav a {
   font-size: 12px;
