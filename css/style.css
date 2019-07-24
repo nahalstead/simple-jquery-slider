@@ -24,3 +24,9 @@ body {
 .active {
     display: block;
 }
+.copyright {
+  position: fixed;
+  right: 28px;
+  top: 28px;
+  display: block;
+}
